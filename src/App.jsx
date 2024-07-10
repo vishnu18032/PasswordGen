@@ -37,6 +37,7 @@ function App() {
   return (
     <>
       <div className="w-full max-w-md max-auto shadow-md rounded-lg px-4 my-8 text-orange-500 bg-gray-500">
+        <h1>Password Genrator</h1>
         <div className="flex shadow-rounded-lg overflow-hidden mb-4">
           <input
             type="text"
